@@ -1,0 +1,14 @@
+{
+    "Cookie": "",
+
+    "Under_Cut": {
+        "type": "percent",
+        "value": 10
+    },
+
+    "Auto_Sell": {
+        "Ask_Before_Sell": true,
+        "Keep_Copy": 0,
+        "Blacklist": []
+    }
+}
