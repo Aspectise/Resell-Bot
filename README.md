@@ -21,6 +21,7 @@
 - [x] - **Gather all the limiteds that can be resellable**
 - [x] - **Pretty customizable**
 - [x] - **Undercut by robux and %**
+- [x] - **Checks all the Head, Face, Neck, Shoulder, Front, Back, Waist, Gear, Pants, Shorts, Skirts, T-shirts, Shirts, Sweaters, Jackets accessories**
 
 ## IMPORTANT!
 - If you don't trust it don't use it.
