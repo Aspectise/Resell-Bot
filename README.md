@@ -28,6 +28,6 @@
 
 ## IMPORTANT!
 - If you don't trust it don't use it.
-- If main.py crashs when you run it, uninstall the current python version you have installed and install python version 3.12.x
+- If main.py crashs when you run it, uninstall the current python version you have installed and install python version 3.11.x
 ## Help
 If you need help setting up the bot join the [Discord](https://discord.gg/deathsniper)
