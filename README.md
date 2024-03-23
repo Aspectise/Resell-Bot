@@ -1,4 +1,5 @@
 # Resell-Bot
+## Update at 10 ⭐
 ## Read the setup section carefully to prevent unwanted stuff from happening ❗
 ## Setup
 ```json
