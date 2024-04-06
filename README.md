@@ -20,10 +20,10 @@
 }
 ```
 ### Features:
-- [x] - **Gather all the limiteds that can be resellable**
+- [x] - **Gather all the limiteds that can be resold**
 - [x] - **Pretty customizable**
 - [x] - **Undercut by robux and %**
-- [x] - **Gather your limiteds pretty fast**
+- [x] - **Fast**
 - [x] - **Checks all the Head, Face, Neck, Shoulder, Front, Back, Waist, Gear, Pants, Shorts, Skirts, T-shirts, Shirts, Sweaters, Jackets accessories**
 
 ## IMPORTANT!
