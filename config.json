@@ -8,6 +8,7 @@
 
     "Auto_Sell": {
         "Ask_Before_Sell": true,
+        "Hide_OnSale": false,
         "Keep_Serials": 0,
         "Keep_Copy": 0,
         "Blacklist": []
