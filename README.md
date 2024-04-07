@@ -1,5 +1,4 @@
 # Resell-Bot
-## Update at 10 ⭐
 ## Read the setup section carefully to prevent unwanted stuff from happening ❗
 ## Setup
 ```json
@@ -13,8 +12,9 @@
 
     "Auto_Sell": {
         "Ask_Before_Sell": true, If true the bot will ask before selling a limited, if false it will mass sell
+        "Hide_OnSale": false, Set it to true to not sell limiteds that are already on sale
         "Keep_Serials": 0, If you keep it at 0 it will ask/sell all your limiteds, if you put it to 10 or any number other number then 0 it will keep all the serials under that number
-        "Keep_Copy": 0, If you put this to 0 it will sell all your ugc limiteds (if you have Ask_Before_Sell to true if it will ask before), if you put it to 1 or higher it will keep 1 (or X) copy of each limited you own
+        "Keep_Copy": 0, If you set this to 0 it will sell all your ugc limiteds (if you have Ask_Before_Sell to true if it will ask before), if you put it to 1 or higher it will keep 1 (or X) copy of each limited you own
         "Blacklist": [] Limited ids that you dont want to sell
     }
 }
