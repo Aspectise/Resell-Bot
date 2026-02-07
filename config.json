@@ -1,16 +1,17 @@
 {
-    "Cookie": "",
-
-    "Under_Cut": {
-        "type": "percent",
-        "value": 10
-    },
-
-    "Auto_Sell": {
-        "Ask_Before_Sell": true,
-        "Hide_OnSale": false,
-        "Keep_Serials": 0,
+    "Cookie": "_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_...",
+    "TOTP_Secret": "FLXIA...",
+    "Settings": {
+        "Threads": 10,
+        "Min_Profit_Robux": 50,
         "Keep_Copy": 0,
-        "Blacklist": []
-    }
+        "Keep_Best_Serials": 100,
+        "Hide_On_Sale": true,
+        "Ask_Confirmation": true
+    },
+    "Undercut": {
+        "Type": "robux", 
+        "Value": 1
+    },
+    "Blacklist_AssetIDs": []
 }
